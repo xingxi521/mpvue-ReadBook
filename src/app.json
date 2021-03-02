@@ -1,0 +1,23 @@
+{
+  "pages": [
+    "pages/index/main",
+    "pages/Search/main",
+    "pages/BookDetail/main",
+    "pages/SearchList/main",
+    "pages/CategoryList/main",
+    "pages/Read/main",
+    "pages/BookShelf/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "星系书城",
+    "navigationBarTextStyle": "black"
+  },
+  "usingComponents": {
+    "van-button": "vant-weapp/dist/button/index",
+    "van-icon": "vant-weapp/dist/icon/index",
+    "van-dialog": "vant-weapp/dist/dialog/index",
+    "van-rate": "vant-weapp/dist/rate/index"
+  }
+}
